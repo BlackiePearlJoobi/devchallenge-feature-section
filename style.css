@@ -168,8 +168,4 @@ footer {
   article {
     width: 22rem;
   }
-
-  article:hover {
-    transform: scale(1.2);
-  }
 }
